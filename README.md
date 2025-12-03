@@ -5,7 +5,7 @@
 StripData is a high-performance web utility engineered for architectural minimalism. It processes and formats raw data *instantly* and efficiently in your browser, maintaining the highest standard of utility and speed.
 
 
-**[🔗 Open the Web App]()**
+**[🔗 Open the Web App](https://raw-json.github.io/StripData/)**
 
 ---
 
