@@ -34,3 +34,9 @@ The essential debugging and data preparation tool for developers.
 * **Zero Bloat:** Built with pure Vanilla JavaScript, HTML, and CSS.
 * **Zero Dependency:** No external libraries, frameworks, or APIs are required.
 * **MIT License:** Open source and free forever.
+
+---
+
+## 🤖 Transparency Note
+
+The project's overall **Architecture, Design, and Direction** are credited to **me**. The code for this application was executed and written by the **Gemini 2.5 Flash AI model** under the strict supervision and instruction by me.
