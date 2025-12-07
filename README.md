@@ -1,4 +1,4 @@
-# StripData ⚡
+# 0FluffStyle ⚡
 
 ### 100% Client-Side Data Utility. No Servers. Zero Latency.
 
